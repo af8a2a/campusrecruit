@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5ca913890662bfe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "010ba0311ef2b654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04372165d2cd2a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "秋招.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52b8f797807c1518",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f90565b1ef55be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5639ffc94bb1e872",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f71d11cf9883b23b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b41b720e0b541cfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "13abcf16cd559f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45bdb9c75230b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea2e6e43cf1bfd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "秋招.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4972816ae1ee04f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "秋招.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dbf07646f6edfbab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a515620bd60fd63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "秋招.md"
+              }
+            }
+          },
+          {
+            "id": "f6cc38e1c8a0f5d1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "04372165d2cd2a35",
+  "lastOpenFiles": [
+    "Pasted image 20231018095447.png",
+    "Pasted image 20231018095445.png",
+    "秋招.md.baiduyun.uploading.cfg",
+    "未命名.canvas.baiduyun.uploading.cfg",
+    "Pasted image 20231003235347.png.baiduyun.uploading.cfg",
+    "Pasted image 20231003235210.png.baiduyun.uploading.cfg",
+    "Pasted image 20231003235153.png.baiduyun.uploading.cfg",
+    "Pasted image 20231003235149.png.baiduyun.uploading.cfg",
+    "Pasted image 20231003235039.png.baiduyun.uploading.cfg",
+    "2023-10-03.md.baiduyun.uploading.cfg",
+    "未命名 1.canvas.baiduyun.uploading.cfg",
+    "Pasted image 20231003235849.png.baiduyun.uploading.cfg",
+    "Pasted image 20231003235849.png",
+    "Pasted image 20231003235717.png",
+    "Pasted image 20231003235153.png",
+    "秋招.md",
+    "Pasted image 20231003235817.png",
+    "Pasted image 20231003235347.png",
+    "Pasted image 20231003235210.png",
+    "Pasted image 20231003235149.png",
+    "Pasted image 20231003235039.png",
+    "未命名 1.canvas",
+    "2023-10-03.md",
+    "未命名.canvas"
+  ]
+}
